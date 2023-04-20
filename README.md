@@ -1,2 +1,2 @@
-# Tic-tac-toe-
+# Tic-tac-toe
 Simple console game on c#
